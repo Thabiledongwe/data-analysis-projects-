@@ -1,2 +1,1 @@
-# data-analysis-projects-
-Basic SQL queries for mock data
+# data-analysis-projects
